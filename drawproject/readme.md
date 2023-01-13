@@ -1,0 +1,1 @@
+aseprite相关文件
